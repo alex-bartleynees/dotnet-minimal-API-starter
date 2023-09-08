@@ -32,7 +32,6 @@ namespace MinimalApi.EndpointDefinitions
 
         private async Task<IResult> CreatePost(IMediator mediator, Post post)
         {
-            Guard.Against.Null(post);
             var command = new CreatePost(post.Content);
             var result = await mediator.Send(command);
             return Results.CreatedAtRoute("GetPostById", new { result.Id }, result);
@@ -46,7 +45,6 @@ namespace MinimalApi.EndpointDefinitions
 
         private async Task<IResult> UpdatePost(IMediator mediator, Post post, int id)
         {
-            Guard.Against.Null(post);
             var command = new UpdatePost(id, post.Content);
             var result = await mediator.Send(command);
             return TypedResults.Ok(result);

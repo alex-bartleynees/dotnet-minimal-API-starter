@@ -8,6 +8,6 @@ public class SocialDbContext : DbContext
     {
     }
 
-    public DbSet<Post> Posts { get; set; }
+    public DbSet<Post> Posts => Set<Post>();
 
 }

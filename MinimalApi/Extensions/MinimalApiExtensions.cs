@@ -1,5 +1,6 @@
 using System.Reflection;
 using Application.Abstractions;
+using Application.Posts.Commands;
 using DataAccess;
 using DataAccess.Repositories;
 using MediatR;
@@ -15,7 +16,7 @@ namespace MinimalApi.Extensions
             var cs = builder.Configuration.GetConnectionString("Default");
             builder.Services.AddDbContext<SocialDbContext>(options => options.UseSqlServer(cs));
             builder.Services.AddScoped<IPostRepository, PostRepository>();
-            builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
+            builder.Services.AddMediatR(typeof(CreatePost));
         }
 
         public static void RegisterEndpointDefinitions(this WebApplication app)
