@@ -1,0 +1,12 @@
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/bin/Debug/net7.0/Domain.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/Domain.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Domain/obj/Debug/net7.0/ref/Domain.dll

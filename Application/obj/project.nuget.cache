@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBNyJpv8m1hetRx5D+NdCC8GFeM4aaUbogx82NuyFCo9jfKl9jDIraoqWmrVqr+/gxPBNgqHEP2FS8H+sV66EQ==",
+  "success": true,
+  "projectFilePath": "/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/dotnet-minimal-api/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexanderbartleynees/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/alexanderbartleynees/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
